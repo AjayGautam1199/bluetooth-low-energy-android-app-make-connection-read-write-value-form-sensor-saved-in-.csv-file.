@@ -1,0 +1,28 @@
+this is my final year project, it is basically biomedical device which collect 
+crucial DATA from sensor, here in this project i'm using 3 pulse sensors to collect
+VATA, PITTA and KAPHA SIGNAL. i have connected vata pulse sensor to A0/D0 GPIO pin of xiao esp32s3.
+pitta is connected to a1/d1 and kapha is connected to a2/d2. 
+Ayurveda, a holistic approach to health, centers on the balance of three fundamental biological 
+entities known as doshas: Vata, Pitta, and Kapha. In Ayurvedic philosophy, the equilibrium of these doshas
+is integral to well-being. Various factors, such as dietary habits, stress, and environmental changes, can
+disrupt this balance, even in seemingly healthy individuals. When Vata, Pitta, and Kapha are not in harmony,
+it can lead to health issues like rheumatoid arthritis, constipation, diarrhea, or asthma.
+To enhance the quality of life and provide timely disease detection and patient monitoring, the development
+of remote patient monitoring systems is crucial in today's healthcare industry. Many researchers opt for 
+noninvasive, cost-effective, real-time pulse monitoring systems. These systems utilize a specific finger 
+arrangement with each finger symbolizing one of the doshas — Vata, Pitta, and Kapha. For example, the left 
+wrist's pulse offers insights into the heart, liver, and kidney, while the right wrist's pulse provides 
+information about the lung, spleen, and kidney.
+The integration of traditional Ayurvedic principles with cutting-edge technology introduces an innovative
+approach to disease detection and monitoring. This solution involves the creation of a unified device that
+combines Ayurvedic pulse analysis with modern sensors and wireless communication. Its primary goal is to enable
+early disease detection and holistic wellness assessment, marking a significant step towards personalized and comprehensive healthcare.
+In the development of an Android application for data collection via Bluetooth, the focus is on gathering vital health data.
+This application's core functionality is to capture and analyze signals from Ayurvedic pulse sensors. The collected data is 
+then processed and evaluated using advanced Artificial Intelligence (AI) and Machine Learning (ML) algorithms.
+These algorithms draw from a comprehensive database to provide valuable insights into an individual's health and well-being.
+By combining cutting-edge technology with the principles of Ayurveda, this application aims to offer users a holistic approach to health assessment.
+It enables early disease detection, monitors the balance of Vata, Pitta, and Kapha doshas, and provides personalized recommendations for improved well-being. 
+The incorporation of AI and ML ensures that the analysis is both accurate and tailored to the individual, making it a powerful tool for proactive health management.
+Presently, this technique is subjective and the accuracy of the diagnosis depends upon the expertise of the Ayurvedicphysician.
+As a first step towards making the diagnosis by nadi-pariksha objective, humanpulse detection and processing system has been developed.
